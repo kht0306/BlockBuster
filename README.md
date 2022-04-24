@@ -1,5 +1,5 @@
 # BlockBuster
-<B>최종 프로젝트</B><BR>
+<B>중앙정보기술인재개발원 최종 조별 프로젝트</B><BR>
 <B>프로젝트명</B> : BlockBuster(OTT 웹서비스 + 영상 관련 커뮤니티)<BR>
 <B>프로젝트 기간</B> : 22년01월26일-22년2월28일<BR>
 <B>사용기술</B> : Spring Boot MVC 2 Structure, Java, Jsp, Oracle, MyBatis, CSS, BootStrap<BR>
